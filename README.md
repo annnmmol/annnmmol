@@ -8,7 +8,7 @@ getting hands on DSA
 
 * 🌍  I'm based in India 
 * ✉️  You can contact me at [kapoor.anmol1706@gmail.com](mailto:kapoor.anmol1706@gmail.com)
-* ⚡  I have a dog named goofy
+* ⚡  i am a football trainer
 
 ### Skills
 
