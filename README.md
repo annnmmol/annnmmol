@@ -1,14 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anmol Kapoor
 ====================================================================================================================================
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
-----An aspiring Frontend Developer
+----An aspiring Analyst
 -----------------
 
-getting hands on DSA
+getting hands on power BI
 
 * 🌍  I'm based in India 
 * ✉️  You can contact me at [kapoor.anmol1706@gmail.com](mailto:kapoor.anmol1706@gmail.com)
 * ⚡  i am a football trainer
+*     I am pet sitter 
 
 ### Skills
 
