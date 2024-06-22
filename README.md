@@ -9,7 +9,6 @@ getting hands on power BI
 * 🌍  I'm based in India 
 * ✉️  You can contact me at [kapoor.anmol1706@gmail.com](mailto:kapoor.anmol1706@gmail.com)
 * ⚡  i am a football trainer
-*     I am pet sitter 
 
 ### Skills
 
