@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ----An aspiring Data Analyst
 -----------------
 
-getting hands on power BI
+getting hands on visualisation tools (Power BI / Tableau)
 
 * 🌍  I'm based in India 
 * ✉️  You can contact me at [kapoor.anmol1706@gmail.com](mailto:kapoor.anmol1706@gmail.com)
